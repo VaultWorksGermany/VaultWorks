@@ -265,3 +265,30 @@ display: flex;
 html {
   scroll-behavior: smooth;
 }
+
+.guides {
+
+max-width: 50%;
+margin-left: 2%;
+
+}
+
+
+.headl2 {
+    font-weight: bold;
+        margin-left:1.5%;
+    text-decoration: underline;
+
+}
+
+.latestgray {
+    font-weight: normal;
+        margin-left:4%;
+        color:#6b6b6b
+
+}
+
+.doclink {
+    text-decoration: none;
+    color: blue;
+}
